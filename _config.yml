@@ -1,0 +1,12 @@
+title: Army Coding
+description: Army Coding — disciplined software engineering.
+url: https://armycoding.com
+
+# Custom layouts + styles; no gem-based theme.
+# Files that should never be published to the site:
+exclude:
+  - CLAUDE.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
